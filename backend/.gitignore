@@ -1,0 +1,10 @@
+/.env
+
+*.env
+./src/.env
+./src/.env
+/node_modules
+
+/dist
+/node_modules
+/.env
